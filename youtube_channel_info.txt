@@ -1,11 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-大愛 | 台灣 |  |
-https://www.youtube.com/watch?v=MIqUplvSRWA
-
 公視 | 台灣 |  |
-https://www.youtube.com/watch?v=C6gYqSHLRw4
-
-東森財經 | 台灣 |  |
-https://www.youtube.com/watch?v=WHEPzbFA3hw
+https://www.youtube.com/live/C6gYqSHLRw4?si=Cqx2EdGxX_aftaDr
