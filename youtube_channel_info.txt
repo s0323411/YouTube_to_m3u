@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-公視 | 台灣 |  |
-https://www.youtube.com/live/C6gYqSHLRw4?si=Cqx2EdGxX_aftaDr
+非凡新聞 | 財經 |  |
+https://www.youtube.com/watch?v=ghrv9QhgNdA
