@@ -1,5 +1,11 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-GPTV電影台 | 影音 |  |
-https://www.youtube.com/watch?v=V0eNcTH0LDo
+我們這一家 | 影音 |  |
+https://www.youtube.com/watch?v=UK81GCw1KE8
+中華一番 | 影音 |  |
+https://www.youtube.com/watch?v=2FJcu6qsM2k
+蠟筆小新 | 影音 |  |
+https://www.youtube.com/watch?v=_jP5o1W3eW0
+公視 |  |  |
+https://www.youtube.com/watch?v=C6gYqSHLRw4
