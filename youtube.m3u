@@ -11,14 +11,5 @@
 #########################################################################
 
 
-#EXTINF:-1 group-title="影音" tvg-logo="" tvg-id="", 我們這一家
-https://raw.githubusercontent.com/s0323411/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="影音" tvg-logo="" tvg-id="", 中華一番
-https://raw.githubusercontent.com/s0323411/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="影音" tvg-logo="" tvg-id="", 蠟筆小新
-https://raw.githubusercontent.com/s0323411/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="" tvg-logo="" tvg-id="", 公視
-https://raw.githubusercontent.com/s0323411/YouTube_to_m3u/main/assets/moose_na.m3u
+#EXTINF:-1 group-title="新聞" tvg-logo="" tvg-id="", 非凡新聞台
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722022169/ei/uaSjZrWfJtGKkucPtYC7uAQ/ip/20.109.38.157/id/QlJJEwMYzEc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAa6bJJrxruP3MQ_NyeU1aqQynxqiaiQmjldeWzqfawipAGCliFid46hbZS4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgBw6zWETlVbUQqio7cg4x9YnXoypEiH_mUgXgOcjfYE0CICUWBl8mCvmxaj7dP3twoWbhtEWvAFaiI1awkAib9B1O/file/index.m3u8
