@@ -40,8 +40,6 @@ def grab(url):
 
 print('#EXTM3U')
 print(banner)
-print('#EXT-X-VERSION:3')
-print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=540000')
 #s = requests.Session()
 with open('../youtube_channel_info.txt') as f:
     for line in f:
