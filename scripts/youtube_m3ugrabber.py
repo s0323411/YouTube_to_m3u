@@ -1,8 +1,5 @@
 #! /usr/bin/python3
 
-banner = r'''
-
-'''
 
 import requests
 import os
@@ -39,7 +36,6 @@ def grab(url):
     print(f"{link[start : end]}")
 
 print('#EXTM3U')
-print(banner)
 #s = requests.Session()
 with open('../youtube_channel_info.txt') as f:
     for line in f:
